@@ -5,6 +5,7 @@ AICTE Student ID: STU66bcbf100bf251723645712
 Internship ID: INTERNSHIP_174175788467d11dbc1d08d
 Domain: Foundation of Artificial Intelligence
 Duration: 10 April(2025)-2 May(2025) 
+Mentors:Rohidas Shelar's, Thoufiq Ahmad
 Chairman-Edunet Foundation : Nagesh Singh
 
 
