@@ -1,0 +1,329 @@
+{
+  "Q&A": {
+    "docsId": "7d46ccea-f791-43f7-9965-c376d67c12e0",
+    "questions": [],
+    "answers": [],
+    "comments": []
+  },
+  "Certifications": null,
+  "Progress": {
+    "completedLearningItems": [
+      {
+        "title": "learn.wwl.responsible-ai-content-safety.introduction",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:06.607632Z"
+      },
+      {
+        "title": "learn.wwl.responsible-ai-content-safety.what-is-content-safety",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:06.7453824Z"
+      },
+      {
+        "title": "learn.wwl.responsible-ai-content-safety.how-content-safety-works",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:06.8837147Z"
+      },
+      {
+        "title": "learn.wwl.responsible-ai-content-safety.when-to-use-content-safety",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:07.0921521Z"
+      },
+      {
+        "title": "learn.wwl.responsible-ai-content-safety.exercise",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:07.2237492Z"
+      },
+      {
+        "title": "learn.wwl.responsible-ai-content-safety.knowledge-check",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:07.3630428Z"
+      },
+      {
+        "title": "learn.wwl.responsible-ai-content-safety.summary",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:07.5748092Z"
+      },
+      {
+        "title": "learn.wwl.responsible-ai-content-safety",
+        "type": "module",
+        "completedAt": "2024-10-26T05:02:07.574825Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure.introduction",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:36.1172721Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure.define-artificial-intelligence",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:39.5485688Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure.understand-ai-related-terms",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:42.1919417Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure.understand-considerations-for-ai-engineers",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:43.9303404Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure.understand-considerations-for-responsible-ai",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:46.9211537Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure.understand-capabilities-of-azure-machine-learning",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:48.9987705Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure.understand-capabilities-of-azure-cognitive-services",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:51.3213341Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure.understand-capabilities-of-azure-openai-service",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:52.9550204Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure.understand-capabilities-of-azure-cognitive-search",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:02:55.3726618Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure.knowledge-check",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:07:45.6797623Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure.summary",
+        "type": "unit",
+        "completedAt": "2024-10-26T05:07:52.5201977Z"
+      },
+      {
+        "title": "learn.wwl.prepare-to-develop-ai-solutions-azure",
+        "type": "module",
+        "completedAt": "2024-10-26T05:07:52.5202129Z"
+      },
+      {
+        "title": "learn.wwl.create-manage-ai-services.introduction",
+        "type": "unit",
+        "completedAt": "2024-10-29T13:46:17.1201144Z"
+      },
+      {
+        "title": "learn.wwl.create-manage-ai-services.create-resource",
+        "type": "unit",
+        "completedAt": "2024-10-29T13:46:20.740076Z"
+      },
+      {
+        "title": "learn.wwl.create-manage-ai-services.identify-keys-endpoints",
+        "type": "unit",
+        "completedAt": "2024-10-29T13:46:24.6086589Z"
+      },
+      {
+        "title": "learn.wwl.create-manage-ai-services.use-rest",
+        "type": "unit",
+        "completedAt": "2024-10-29T13:46:35.4565694Z"
+      },
+      {
+        "title": "learn.wwl.create-manage-ai-services.use-sdk",
+        "type": "unit",
+        "completedAt": "2024-10-29T13:46:39.5918863Z"
+      },
+      {
+        "title": "learn.wwl.create-manage-ai-services.exercise-ai-services",
+        "type": "unit",
+        "completedAt": "2024-10-29T13:46:46.6387433Z"
+      },
+      {
+        "title": "learn.wwl.create-manage-ai-services.knowledge-check",
+        "type": "unit",
+        "completedAt": "2024-10-29T13:47:15.7670648Z"
+      },
+      {
+        "title": "learn.wwl.create-manage-ai-services.summary",
+        "type": "unit",
+        "completedAt": "2024-10-29T13:47:21.6590602Z"
+      },
+      {
+        "title": "learn.wwl.create-manage-ai-services",
+        "type": "module",
+        "completedAt": "2024-10-29T13:47:21.659072Z"
+      }
+    ],
+    "learningPathPasses": [],
+    "moduleAssessments": []
+  },
+  "Attachments": true,
+  "VerifiableCredentials": {
+    "docsId": "7d46ccea-f791-43f7-9965-c376d67c12e0",
+    "userCredentials": []
+  },
+  "Assessments": null,
+  "Lists": null,
+  "XP": {
+    "xp": {
+      "docsId": "7d46ccea-f791-43f7-9965-c376d67c12e0",
+      "totalXp": 3900,
+      "currentLevel": 2,
+      "currentLevelLow": 1800,
+      "currentLevelHigh": 4299,
+      "currentLevelPointsEarned": 2100,
+      "nextLevel": 3,
+      "pointsUntilNextLevel": 400,
+      "achievementCategories": {
+        "Unknown": 0,
+        "Modules": 3,
+        "Courses": 0,
+        "Qna": 0,
+        "Challenges": 0,
+        "Events": 0,
+        "LearningPaths": 0,
+        "Plans": 0,
+        "Special": 0
+      }
+    },
+    "achievements": [
+      {
+        "category": "modules",
+        "typeId": "learn.wwl.create-manage-ai-services.badge",
+        "userId": "7d46ccea-f791-43f7-9965-c376d67c12e0",
+        "id": "VDTG2RTM",
+        "title": "Create and consume Azure AI services",
+        "imageUrl": "/training/achievements/create-and-manage-cognitive-services.svg",
+        "locale": "en-us",
+        "verified": false,
+        "source": "Progress",
+        "grantedOn": "2024-10-29T13:47:21.915Z",
+        "url": "/training/modules/create-manage-ai-services/",
+        "milestoneEligible": true,
+        "version": 7631
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.wwl.prepare-to-develop-ai-solutions-azure.badge",
+        "userId": "7d46ccea-f791-43f7-9965-c376d67c12e0",
+        "id": "N2V8K3MF",
+        "title": "Prepare to develop AI solutions on Azure",
+        "imageUrl": "/training/achievements/azure-develop-ai-solutions.svg",
+        "locale": "en-us",
+        "verified": false,
+        "source": "Progress",
+        "grantedOn": "2024-10-26T05:07:52.713Z",
+        "url": "/training/modules/prepare-to-develop-ai-solutions-azure/",
+        "milestoneEligible": true,
+        "version": 2755
+      },
+      {
+        "category": "modules",
+        "typeId": "learn.wwl.sample-module.badge",
+        "userId": "7d46ccea-f791-43f7-9965-c376d67c12e0",
+        "id": "P5LQ38W4",
+        "title": "Use AI responsibly with Azure AI Content Safety",
+        "imageUrl": "/learn/achievements/generic-badge.svg",
+        "locale": "en-us",
+        "verified": false,
+        "source": "Progress",
+        "grantedOn": "2024-10-26T05:02:07.763Z",
+        "url": "/training/modules/responsible-content-safety/",
+        "milestoneEligible": true,
+        "version": 17707
+      }
+    ]
+  },
+  "SkillAssessment": null,
+  "TechProfile": {
+    "email": "pritampp2004@gmail.com",
+    "locale": "en-us",
+    "country": "IN",
+    "contactPointTopicSetting": "OptInExplicit",
+    "isInstructor": false,
+    "isChallengeAdmin": false,
+    "isQnaModerator": false,
+    "source": "learn",
+    "authenticationModes": [
+      {
+        "id": "000300006C45DEAF",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "pritampp2004@gmail.com",
+        "oid": "00000000-0000-0000-523c-3897fa291630",
+        "dateAcceptedPrivacyNotice": "2024-10-26T05:01:46.7984444+00:00",
+        "dateAdded": "2024-10-26T05:01:46.7984444+00:00"
+      }
+    ],
+    "transcriptSettings": {
+      "publicLink": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "print": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "certificationSettings": {
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "qnaEmailPreferences": {
+      "allEmail": true,
+      "autoFollowAsked": true,
+      "autoFollowAnswered": true,
+      "autoFollowCommented": true,
+      "autoFollowTagged": true,
+      "emailEventSettings": {
+        "newMention": "instant",
+        "newModeration": "instant",
+        "answerPosted": "instant",
+        "answerAccepted": "instant",
+        "commentPosted": "instant",
+        "newPrivateMessage": "instant",
+        "questionUpdated": "off",
+        "questionPosted": "off",
+        "unansweredQuestions": "off",
+        "newFollower": "off",
+        "answerUpdated": "off"
+      }
+    },
+    "sharingId": "370F4465414B3AE1",
+    "legalName": {
+      "first": "Pritam",
+      "middle": "",
+      "last": "Patra"
+    },
+    "userId": "7d46ccea-f791-43f7-9965-c376d67c12e0",
+    "userName": "PritamPatra-7385",
+    "displayName": "Pritam Patra",
+    "isPrivate": false,
+    "affiliations": [],
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 0,
+    "createdOn": "10/26/2024 5:01:46 AM"
+  },
+  "NextSteps": {
+    "docsId": "7d46ccea-f791-43f7-9965-c376d67c12e0",
+    "dismissals": [],
+    "enrollments": [
+      {
+        "id": "b84114dc-8c23-4305-a6ea-0f5f81de1e47",
+        "partitionKey": "7d46ccea-f791-43f7-9965-c376d67c12e0",
+        "sourceType": "learningpath",
+        "sourceId": "learn.wwl.get-started-azure-ai",
+        "_ts": 1729918929
+      }
+    ]
+  }
+}
